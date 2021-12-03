@@ -1,0 +1,15 @@
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.csprojAssemblyReference.cache
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.AssemblyInfoInputs.cache
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.AssemblyInfo.cs
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.csproj.CoreCompileInputs.cache
+/Users/kennethlapid/ALG200/bin/Debug/net5.0/ALG200.deps.json
+/Users/kennethlapid/ALG200/bin/Debug/net5.0/ALG200.runtimeconfig.json
+/Users/kennethlapid/ALG200/bin/Debug/net5.0/ALG200.runtimeconfig.dev.json
+/Users/kennethlapid/ALG200/bin/Debug/net5.0/ALG200.dll
+/Users/kennethlapid/ALG200/bin/Debug/net5.0/ref/ALG200.dll
+/Users/kennethlapid/ALG200/bin/Debug/net5.0/ALG200.pdb
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.dll
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ref/ALG200.dll
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.pdb
+/Users/kennethlapid/ALG200/obj/Debug/net5.0/ALG200.genruntimeconfig.cache
